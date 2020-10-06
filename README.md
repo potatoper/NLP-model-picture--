@@ -30,15 +30,7 @@ https://ieeexplore.ieee.xilesou.top/abstract/document/8787806
 
 ![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/m_%E5%AF%B9%E6%AF%94%E5%9B%BE.png)
 
-PPT做这种东西很方便，就是费时间，快乐就好。
-
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ma%E5%8E%9F%E5%88%9B%E8%AE%BE%E8%AE%A1.png)
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ma011.png)
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ma012.png)
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ma013.png)
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ma014.png)
-
-
+PPT做这种东西很方便
 二师兄的论文也帮上了忙，涉密涉密不传
 
 ![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/%E6%9D%89%E5%93%A5.png)
