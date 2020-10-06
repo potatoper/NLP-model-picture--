@@ -3,16 +3,7 @@
 因疫情无法返校，总结下手上的模型图。 纯手工ppt；
 
 南，暑假找工作还不知道去哪要饭；南
-
-
-以前以为神经网络就是这样：
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.png)
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/ml_lstm.png)
-
-
-
-+ 后来它可以这样：
-
+## 初期作品
 resnet
 ![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/Resnet.png)
 
@@ -68,9 +59,23 @@ PPT做这种东西很方便，就是费时间，快乐就好。
 ![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/RE%E5%BC%80%E7%AF%87.png)
 
 
-还是这个：
+## 进阶作品：
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/GAN.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/GRD%E8%AE%BA%E6%96%87%E6%8F%92%E5%9B%BE.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/SPCPF-NET.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/unet.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E5%8C%97%E7%90%86%E5%85%89%E6%B5%81.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E6%8A%A5%E5%A5%96%E4%B8%89%E8%BF%9E1.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E7%94%B3%E6%8A%A5%E4%B9%A62.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E7%94%B3%E6%8A%A5%E4%B9%A61.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E7%94%B3%E6%8A%A5%E4%B9%A62.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E7%94%B3%E6%8A%A5%E4%B9%A63.png)
+![image](https://github.com/potatoper/NLP-model-picture--/blob/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.png)
 
-![image](https://github.com/potatoper/NLP-model-picture--/blob/master/.github/workflows/GitHub/%E6%88%91%E7%9A%84%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1.png)
+
+
+
+
 
 
 版权所有，仿冒必究
